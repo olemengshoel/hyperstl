@@ -1,6 +1,6 @@
-# hyperstl - GitHub Repository for HyperSTL 
+# hyperstl - GitHub Repository for the HyperSTL Method
 
-HyperSTL is a hyperparameter optimization method for STL. 
+HyperSTL is a hyperparameter optimization method for STL. STL is a time series decomposition method introduced in 1990. 
 
 ## The Paper
 
@@ -11,4 +11,7 @@ Aniruddha Basak (Carnegie Mellon University), Ole Mengshoel (Carnegie Mellon Uni
 
 ## This GitHub Repository
 
-This repository contains software that underlies the ECCO 
+This repository contains software, implemented in R, that underlies the GECCO paper.   
+
+We are using other R libraries including: 
+https://stat.ethz.ch/R-manual/R-devel/library/stats/html/stl.html
